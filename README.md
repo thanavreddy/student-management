@@ -11,7 +11,7 @@ This project is a full-stack student management system built with Node.js (Expre
 
 ### 1. Clone the repository
 ```
-git clone <repo-url>
+git clone https://github.com/thanavreddy/student-management
 cd student-management
 ```
 
